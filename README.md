@@ -1,0 +1,1 @@
+# startup-patent-manager
