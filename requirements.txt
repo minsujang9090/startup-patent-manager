@@ -1,0 +1,6 @@
+pymongo
+pandas
+numpy
+streamlit
+XlsxWriter
+openpyxl
